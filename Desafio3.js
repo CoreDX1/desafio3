@@ -63,7 +63,7 @@ class Contenedor{
 
 let archivo = new Contenedor('productos.txt');
 archivo.getAll('productos')
-archivo.getAllRandom('productoRandok')
+archivo.getAllRandom('productoRandom')
 
 // app.get('/products', (req, res) => {
 //   res.send(archivo.products())
